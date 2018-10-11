@@ -1,0 +1,7 @@
+Rojo
+Azul
+Amarillo
+Verde
+Rosa
+Naranja
+Gris
