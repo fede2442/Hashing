@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539741306 source:c:\users\martina\documents\hashing\cerrado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+
