@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1539898937 source:c:\users\martina\documents\hashing\cerr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<stdbool.h>
+
